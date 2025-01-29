@@ -31,7 +31,7 @@ Use Deepseek on your VS Code Editor. Use on a terminal or in a VS Code window.
 
 # Why use this extension?
 
-* The main benefit of using an extension is that you can be sure that nobody is harvesting your data. The same is not true for an internet browser or a mobile phone app.
+* The main benefit of using an extension is that you can be sure that nobody is harvesting your data. The same is not true when you're using a browser or a mobile phone app.
   
 # Enjoy!
 
