@@ -28,6 +28,10 @@ Use Deepseek on your VS Code Editor. Use on a terminal or in a VS Code window.
 * Copy the output and paste it in another file so you can save all the answers you want to keep.
 * Check the Ollama website for the new packages every now and then and keep your files updated. You can try different packages and use only those that your pc can run without issues.
 * You need a good cpu, seriously! A Ryzen 5 3600 has over 70% core utilization with package 14b. Even the smallest package currently available, 1.5b, pushes to over 60% utilization.
+
+# Why use this extension?
+
+* The main benefit of using an extension is that you can be sure that nobody is harvesting your data. The same is not true for an internet browser or a mobile phone app.
   
 # Enjoy!
 
