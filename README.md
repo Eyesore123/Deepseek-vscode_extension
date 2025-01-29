@@ -28,7 +28,7 @@ Use Deepseek on your VS Code Editor. Use on a terminal or in a VS Code window.
 * Copy the output and paste it in another file so you can save all the answers you want to keep.
 * Check the Ollama website for the new packages every now and then and keep your files updated. You can try different packages and use only those that your pc can run without issues.
 * You need a good cpu, seriously! A Ryzen 5 3600 has over 70% core utilization with package 14b. Even the smallest package currently available, 1.5b, pushes to over 60% utilization.
-* Remember that Deepseek is only a  tool. It's awesome but it still makes lots of mistakes.
+* Remember that Deepseek is only a  tool. It's awesome but it's not perfect; it makes lots of mistakes. It think it's still definitely a good option compared to other AI tools that can cost a lot of money to use.
 
 # Why use this extension?
 
