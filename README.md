@@ -1,10 +1,10 @@
-# deepseek README
+# DEEPSEEK README
 
 This is the README for your extension "deepseek". 
 
 ## Features
 
-Use Deepseek on VS Code Editor
+Use Deepseek on your VS Code Editor. Use on a terminal or a window.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ VS Code
 # Instructions
 
 * Run dependencies
-* Start a debugger in new window
+* Start debugger in a new window
 * Enjoy!
 
 **Enjoy!**
