@@ -1,6 +1,6 @@
 # DEEPSEEK VISUAL STUDIO CODE EXTENSION: README
 
-This is the README for your extension "deepseek". 
+This is the README for your extension "deepseek-r1". 
 
 ## Features
 
@@ -10,7 +10,7 @@ Use Deepseek on your VS Code Editor. Use on a terminal or in a VS Code window.
 
 * A pc with at least 32 gbs of RAM
 * A decent cpu (a modern six-core processor or better)
-* Enough storage for your packages. I recommend allocating at least 10 gb of free storage for your Deepseek extension so you take advantage of better packages. Bigger packages deliver a much better quality but do not require that much more power from your cpu compared to smaller packages. Personally I use package 14b, which works well with Ryzen 5 3600 and 32 gigabytes of RAM.
+* Enough storage for your packages. I recommend allocating at least 10 gb of free storage for your Deepseek extension so you take advantage of better packages. Bigger packages deliver a much better quality but do not require that much more power from your cpu compared to smaller packages. Personally I use package 14b, which works well with Ryzen 5 3600 and 32 gigabytes of RAM. Larger packages than 14b run a lot slower in comparison and would require better hardware to keep token generation at an acceptable level.
 * Official Deepseek-r1 packages from Ollama website. You also need to install Ollama software that runs on the background and handles the packages.
 * VS Code installed, Node.js installed and a terminal.
 
@@ -28,11 +28,11 @@ Use Deepseek on your VS Code Editor. Use on a terminal or in a VS Code window.
 * Copy the output and paste it in another file so you can save all the answers you want to keep.
 * Check the Ollama website for the new packages every now and then and keep your files updated. You can try different packages and use only those that your pc can run without issues.
 * You need a good cpu, seriously! A Ryzen 5 3600 has over 70% core utilization with package 14b. Even the smallest package currently available, 1.5b, pushes to over 60% utilization.
-* Remember that Deepseek is only a  tool. It's awesome but it's not perfect; it makes lots of mistakes. I think it's still a good option compared to other tools that cost a lot of money.
+* Remember that Deepseek is only a tool. It's awesome but it's not perfect; it makes lots of mistakes. I think it's still a good option compared to other LLM tools that cost a lot of money.
 
 # Why use this extension?
 
-* The main benefit of using an extension is that you can be sure that nobody is harvesting your data. The same is not true when you're using a browser or a mobile phone app.
+* The main benefit of using an extension is that you can be sure that nobody is harvesting your data. The same is not true when you're using a browser or a mobile phone app. This extension uses VS Code to run it, but you don't have to use use VS Code if you don't want to. Another good option to run Deepseek privately would be AnythingLLM, which allows the private use of LLMs.
   
 # Enjoy!
 
