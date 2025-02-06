@@ -11,7 +11,7 @@ Use Deepseek on your VS Code Editor. Use on a terminal or in a VS Code window.
 * A pc with at least 32 gbs of RAM
 * A decent cpu (a modern six-core processor or better)
 * Enough storage for your packages. I recommend allocating at least 10 gb of free storage for your Deepseek extension so you take advantage of better packages. Bigger packages deliver a much better quality but do not require that much more power from your cpu compared to smaller packages. Personally I use package 14b, which works well with Ryzen 5 3600 and 32 gigabytes of RAM.
-* Official Deepseek-r1 packages from Ollama website. You also need to install Ollama software that runs of the background.
+* Official Deepseek-r1 packages from Ollama website. You also need to install Ollama software that runs on the background and handles the packages.
 * VS Code installed, Node.js installed and a terminal.
 
 # Instructions
